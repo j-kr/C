@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1461228898 source:d:\studia\semestr 2\programowanie\lista 7\zad1lis7\cd.cpp
+
+1461582991 source:d:\studia\semestr 2\programowanie\lista 7\zad1lis7\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
